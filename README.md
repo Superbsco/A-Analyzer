@@ -1,5 +1,7 @@
 # A-Analyzer 股票多因子分析工具
 
+> 🔔 国内用户可访问 [Gitee仓库](https://gitee.com/hsp2/A-Analyzer) 获得更好的访问速度
+
 在AI时代，量化分析已成为股票投资的重要手段。A-Analyzer助您在股海中把握先机，发现潜在投资机会。
 
 ## 项目简介
@@ -75,6 +77,8 @@ A-Analyzer是一个A股股票多因子分析工具，通过多种技术指标和
 ## 快速开始
 1. 确保已安装Node.js 16.0.0或更高版本
 2. 克隆或下载本项目
+   - GitHub仓库: `git clone https://github.com/Superbsco/A-Analyzer.git`
+   - Gitee仓库: `git clone https://gitee.com/hsp2/A-Analyzer.git`
 3. 安装依赖
 
 ## 安装依赖
