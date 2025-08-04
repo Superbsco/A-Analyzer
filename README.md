@@ -203,9 +203,16 @@ const finalScore = Math.round(
 ## 支持与捐赠
 如果本工具对您有帮助，欢迎通过以下方式支持作者：
 
-| 微信支付 | 支付宝 |
-|---------|-------|
-| <div style="text-align: center;"><img src="https://github.com/Superbsco/A-Analyzer/blob/main/photo/wx.jpg" alt="微信收款码" style="width: 200px; height: auto; max-width: 100%;"></div> | <div style="text-align: center;"><img src="https://github.com/Superbsco/A-Analyzer/blob/main/photo/zfb.jpg" alt="支付宝收款码" style="width: 200px; height: auto; max-width: 100%;"></div> |
+<table>
+  <tr>
+    <td >微信支付</td>
+    <td >支付宝</td>
+  </tr>
+  <tr>
+    <td ><img height="320" width="250" src="https://github.com/Superbsco/A-Analyzer/blob/main/photo/wx.jpg"/></td>  
+    <td ><img height="auto" width="250" src="https://github.com/Superbsco/A-Analyzer/blob/main/photo/zfb.jpg"/></td>  
+  </tr>
+</table>
 
 您的支持是我持续开发和改进本工具的动力！
 
